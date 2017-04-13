@@ -1,0 +1,20 @@
+Don't make the mistake of supposing that all software development has one simple motive. Here are some of the motives we know influence many people to write free software.
+
+Fun
+    For some people, often the best programmers, writing software is the greatest fun, especially when there is no boss to tell you what to do.
+    Nearly all free software developers share this motive.
+Political idealism
+    The desire to build a world of freedom, and help computer users escape from the power of software developers. 
+To be admired
+    If you write a successful, useful free program, the users will admire you. That feels very good. 
+Professional reputation
+    If you write a successful, useful free program, that will suffice to show you are a good programmer. 
+Community
+    Being part of a community by collaborating with other people in public free software projects is a motive for many programmers.
+Education
+    If you write free software, it is often an opportunity to dramatically improve both your technical and social skills; if you are a teacher, encouraging your students to take part in an existing free software project or organizing them into a free software project may provide an excellent opportunity for them.
+Gratitude
+    If you have used the community's free programs for years, and it has been important to your work, you feel grateful and indebted to their developers. When you write a program that could be useful to many people, that is your chance to pay it forward. 
+Hatred for Microsoft
+    It is a mistake to focus our criticism narrowly on Microsoft. Indeed, Microsoft is evil, since it makes nonfree software. Even worse, it is often malware in various ways including DRM. However, many other companies do these things, and the nastiest enemy of our freedom nowadays is Apple.
+    Nonetheless, it is a fact that many people utterly despise Microsoft, and some contribute to free software based on that feeling. 

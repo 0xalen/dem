@@ -1,0 +1,11 @@
+GNU is an operating system that is free software—that is, it respects users' freedom. The development of GNU made it possible to use a computer without software that would trample your freedom.
+The free software movement campaigns to win for the users of computing the freedom that comes from free software. Free software puts its users in control of their own computing. Non-free software puts its users under the power of the software's developer.
+ree software means the users have the freedom to run, copy, distribute, study, change and improve the software.
+Free software is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech”, not as in “free beer”.
+More precisely, free software means users of a program have the four essential freedoms:
+    The freedom to run the program as you wish, for any purpose (freedom 0).
+    The freedom to study how the program works, and adapt it to your needs (freedom 1). Access to the source code is a precondition for this.
+    The freedom to redistribute copies so you can help your neighbor (freedom 2).
+    The freedom to improve the program, and release your improvements to the public, so that the whole community benefits (freedom 3). Access to the source code is a precondition for this.
+Developments in technology and network use have made these freedoms even more important now than they were in 1983.
+Nowadays the free software movement goes far beyond developing the GNU system
